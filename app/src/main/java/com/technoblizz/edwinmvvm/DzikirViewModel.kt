@@ -7,4 +7,5 @@ class DzikirViewModel : ViewModel() {
     //track value of dzikir
     var value : Int = 0
 
+
 }
